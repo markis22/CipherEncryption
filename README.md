@@ -41,7 +41,7 @@ First, a Zynq-based FPGA project was created in Vivado to serve as the hardware 
 <br />
 
 Conceptual Block Diagram illustrating system-level data flow between UART input, processing system, cipher logic, and OLED output: <br />
-<img src="https://i.imgur.com/gcFYObR.png" height="80%" width="80%" alt="Conceptual Block Diagram"/>
+<img src="https://i.imgur.com/gcFYObR.png" height="50%" width="50%" alt="Conceptual Block Diagram"/>
 
 <br />
 <br />
@@ -52,7 +52,7 @@ Next, the hardware design was synthesized and validated to ensure proper AXI con
 <br />
 
 RTL Schematic generated after synthesis: <br />
-<img src="https://i.imgur.com/90DDoDE.png" height="80%" width="80%" alt="RTL Schematic"/>
+<img src="https://i.imgur.com/90DDoDE.png" height="50%" width="50%" alt="RTL Schematic"/>
 
 <br />
 <br />
@@ -73,7 +73,7 @@ The encrypted output was transmitted to the OLED display via a PMOD interface. D
 <br />
 
 Synthesis Schematic confirming finalized hardware implementation: <br />
-<img src="https://i.imgur.com/JJnkRlW.png" height="80%" width="80%" alt="Synthesis Schematic"/>
+<img src="https://i.imgur.com/JJnkRlW.png" height="50%" width="50%" alt="Synthesis Schematic"/>
 
 <br />
 <br />
@@ -84,7 +84,7 @@ Throughout development, several technical challenges were encountered and resolv
 <br />
 
 Final system output demonstrating encrypted text displayed on the OLED screen: <br />
-<img src="INSERT_IMAGE_LINK_HERE" height="80%" width="80%" alt="Encrypted OLED Output"/>
+<img src="INSERT_IMAGE_LINK_HERE" height="50%" width="50%" alt="Encrypted OLED Output"/>
 
 <br />
 <br />
