@@ -84,7 +84,7 @@ Throughout development, several technical challenges were encountered and resolv
 <br />
 
 Final system output demonstrating encrypted text displayed on the OLED screen: <br />
-<img src="INSERT_IMAGE_LINK_HERE" height="50%" width="50%" alt="Encrypted OLED Output"/>
+[![Demo Video](thumbnail.png)](https://youtube.com/shorts/OVHvdoQR91g)
 
 <br />
 <br />
